@@ -1,5 +1,5 @@
 # My first telegram bot
-### COURSE WORK
+### COURSE WORK #3
 
 ### Description
 The telegram bot can react on a "/start" command.
